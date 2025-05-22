@@ -1,0 +1,60 @@
+[2025-03-24 00:09:13.003082] |==============================================================================|
+[2025-03-24 00:09:13.007359] |=========                      OpenRAM v1.2.48                       =========|
+[2025-03-24 00:09:13.009220] |=========                                                            =========|
+[2025-03-24 00:09:13.011290] |=========               VLSI Design and Automation Lab               =========|
+[2025-03-24 00:09:13.013620] |=========        Computer Science and Engineering Department         =========|
+[2025-03-24 00:09:13.016538] |=========            University of California Santa Cruz             =========|
+[2025-03-24 00:09:13.019907] |=========                                                            =========|
+[2025-03-24 00:09:13.022140] |=========          Usage help: openram-user-group@ucsc.edu           =========|
+[2025-03-24 00:09:13.024908] |=========        Development help: openram-dev-group@ucsc.edu        =========|
+[2025-03-24 00:09:13.027499] |=========                See LICENSE for license info                =========|
+[2025-03-24 00:09:13.030070] |==============================================================================|
+[2025-03-24 00:09:13.033592] ** Start: 03/24/2025 00:09:13
+[2025-03-24 00:09:13.036011] Technology: sky130
+[2025-03-24 00:09:13.038201] Total size: 65536 bits
+[2025-03-24 00:09:13.040937] Word size: 32
+Words: 2048
+Banks: 1
+[2025-03-24 00:09:13.043688] RW ports: 1
+R-only ports: 1
+W-only ports: 0
+[2025-03-24 00:09:13.045739] DRC/LVS/PEX is only run on the top-level design to save run-time (inline_lvsdrc=True to do inline checking).
+[2025-03-24 00:09:13.049386] DRC/LVS/PEX is disabled (check_lvsdrc=True to enable).
+[2025-03-24 00:09:13.052338] Characterization is disabled (using analytical delay models) (analytical_delay=False to simulate).
+[2025-03-24 00:09:13.054757] Only generating nominal corner timing.
+[2025-03-24 00:09:13.056777] Words per row: None
+[2025-03-24 00:09:13.058790] Output files are: 
+[2025-03-24 00:09:13.060893] /mnt/c/Users/JB/OpenRAM/riscv_dcache8k/sky130_sram_8kbytes_1rw1r_32x2048_32/sky130_sram_8kbytes_1rw1r_32x2048_32.lvs
+[2025-03-24 00:09:13.063703] /mnt/c/Users/JB/OpenRAM/riscv_dcache8k/sky130_sram_8kbytes_1rw1r_32x2048_32/sky130_sram_8kbytes_1rw1r_32x2048_32.sp
+[2025-03-24 00:09:13.067953] /mnt/c/Users/JB/OpenRAM/riscv_dcache8k/sky130_sram_8kbytes_1rw1r_32x2048_32/sky130_sram_8kbytes_1rw1r_32x2048_32.v
+[2025-03-24 00:09:13.070291] /mnt/c/Users/JB/OpenRAM/riscv_dcache8k/sky130_sram_8kbytes_1rw1r_32x2048_32/sky130_sram_8kbytes_1rw1r_32x2048_32.lib
+[2025-03-24 00:09:13.072395] /mnt/c/Users/JB/OpenRAM/riscv_dcache8k/sky130_sram_8kbytes_1rw1r_32x2048_32/sky130_sram_8kbytes_1rw1r_32x2048_32.py
+[2025-03-24 00:09:13.074606] /mnt/c/Users/JB/OpenRAM/riscv_dcache8k/sky130_sram_8kbytes_1rw1r_32x2048_32/sky130_sram_8kbytes_1rw1r_32x2048_32.html
+[2025-03-24 00:09:13.076688] /mnt/c/Users/JB/OpenRAM/riscv_dcache8k/sky130_sram_8kbytes_1rw1r_32x2048_32/sky130_sram_8kbytes_1rw1r_32x2048_32.log
+[2025-03-24 00:09:13.078886] /mnt/c/Users/JB/OpenRAM/riscv_dcache8k/sky130_sram_8kbytes_1rw1r_32x2048_32/sky130_sram_8kbytes_1rw1r_32x2048_32.lef
+[2025-03-24 00:09:13.083432] /mnt/c/Users/JB/OpenRAM/riscv_dcache8k/sky130_sram_8kbytes_1rw1r_32x2048_32/sky130_sram_8kbytes_1rw1r_32x2048_32.gds
+[2025-03-24 00:47:36.175055] ** Submodules: 2302.9 seconds
+[2025-03-24 00:47:36.274840] ** Placement: 0.1 seconds
+[2025-03-24 06:00:41.678171] ** Routing: 18785.4 seconds
+[2025-03-24 06:00:41.863709] ** Verification: 0.0 seconds
+[2025-03-24 06:00:41.869187] ** SRAM creation: 21088.6 seconds
+[2025-03-24 06:00:41.873615] SP: Writing to /mnt/c/Users/JB/OpenRAM/riscv_dcache8k/sky130_sram_8kbytes_1rw1r_32x2048_32/sky130_sram_8kbytes_1rw1r_32x2048_32.sp
+[2025-03-24 06:00:44.028446] ** Spice writing: 2.2 seconds
+[2025-03-24 06:00:44.034703] DELAY: Writing stimulus...
+[2025-03-24 06:00:49.833097] ** DELAY: 5.8 seconds
+[2025-03-24 06:00:51.605523] GDS: Writing to /mnt/c/Users/JB/OpenRAM/riscv_dcache8k/sky130_sram_8kbytes_1rw1r_32x2048_32/sky130_sram_8kbytes_1rw1r_32x2048_32.gds
+[2025-03-24 06:01:18.938208] ** GDS: 27.3 seconds
+[2025-03-24 06:01:18.942879] LEF: Writing to /mnt/c/Users/JB/OpenRAM/riscv_dcache8k/sky130_sram_8kbytes_1rw1r_32x2048_32/sky130_sram_8kbytes_1rw1r_32x2048_32.lef
+[2025-03-24 06:01:19.001494] ** LEF: 0.1 seconds
+[2025-03-24 06:01:19.007255] LVS: Writing to /mnt/c/Users/JB/OpenRAM/riscv_dcache8k/sky130_sram_8kbytes_1rw1r_32x2048_32/sky130_sram_8kbytes_1rw1r_32x2048_32.lvs.sp
+[2025-03-24 06:01:20.724991] ** LVS writing: 1.7 seconds
+[2025-03-24 06:01:20.731752] LIB: Characterizing... 
+[2025-03-24 06:01:30.042226] ** Characterization: 9.3 seconds
+[2025-03-24 06:01:30.095372] Config: Writing to /mnt/c/Users/JB/OpenRAM/riscv_dcache8k/sky130_sram_8kbytes_1rw1r_32x2048_32/sky130_sram_8kbytes_1rw1r_32x2048_32.py
+[2025-03-24 06:01:30.103621] ** Config: 0.1 seconds
+[2025-03-24 06:01:30.243824] Datasheet: Writing to /mnt/c/Users/JB/OpenRAM/riscv_dcache8k/sky130_sram_8kbytes_1rw1r_32x2048_32/sky130_sram_8kbytes_1rw1r_32x2048_32.html
+[2025-03-24 06:01:30.342806] ** Datasheet: 0.2 seconds
+[2025-03-24 06:01:30.350173] Verilog: Writing to /mnt/c/Users/JB/OpenRAM/riscv_dcache8k/sky130_sram_8kbytes_1rw1r_32x2048_32/sky130_sram_8kbytes_1rw1r_32x2048_32.v
+[2025-03-24 06:01:30.363021] ** Verilog: 0.0 seconds
+[2025-03-24 06:01:34.424743] [openram.globals/cleanup_paths]: Preserving temp directory: /tmp/openram_juhi8_1042_temp/
+[2025-03-24 06:01:34.429622] ** End: 21141.4 seconds
