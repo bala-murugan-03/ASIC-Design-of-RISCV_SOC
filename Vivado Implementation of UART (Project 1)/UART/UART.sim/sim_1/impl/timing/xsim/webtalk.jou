@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Webtalk v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Tue Feb 18 03:49:25 2025
+# Process ID: 1500
+# Current directory: N:/VLSI_Design_Lab/UART/UART.sim/sim_1/impl/timing/xsim
+# Command line: wbtcv.exe -mode batch -source N:/VLSI_Design_Lab/UART/UART.sim/sim_1/impl/timing/xsim/xsim.dir/uart_lite_tb_time_impl/webtalk/xsim_webtalk.tcl -notrace
+# Log file: N:/VLSI_Design_Lab/UART/UART.sim/sim_1/impl/timing/xsim/webtalk.log
+# Journal file: N:/VLSI_Design_Lab/UART/UART.sim/sim_1/impl/timing/xsim\webtalk.jou
+#-----------------------------------------------------------
+source N:/VLSI_Design_Lab/UART/UART.sim/sim_1/impl/timing/xsim/xsim.dir/uart_lite_tb_time_impl/webtalk/xsim_webtalk.tcl -notrace

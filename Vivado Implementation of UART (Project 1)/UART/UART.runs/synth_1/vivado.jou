@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Tue Feb 18 13:59:28 2025
+# Process ID: 18712
+# Current directory: N:/VLSI_Design_Lab/UART/UART.runs/synth_1
+# Command line: vivado.exe -log uart_lite.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source uart_lite.tcl
+# Log file: N:/VLSI_Design_Lab/UART/UART.runs/synth_1/uart_lite.vds
+# Journal file: N:/VLSI_Design_Lab/UART/UART.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source uart_lite.tcl -notrace

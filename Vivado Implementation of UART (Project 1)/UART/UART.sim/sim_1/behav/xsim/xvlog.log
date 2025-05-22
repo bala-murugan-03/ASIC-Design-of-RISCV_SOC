@@ -1,0 +1,6 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/lakshmideepmaddineni/Downloads/baud_rate_gen.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module baud_rate_gen
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/lakshmideepmaddineni/Downloads/uart_lite.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module uart_lite
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/lakshmideepmaddineni/Desktop/uart_lite_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module uart_lite_tb

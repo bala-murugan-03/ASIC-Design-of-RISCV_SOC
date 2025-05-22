@@ -1,0 +1,9 @@
+verilog xil_defaultlib --include "../../../../assignment_3_parta_a.gen/sources_1/bd/axi_controller/ipshared/d0f7" \
+"../../../bd/axi_controller/ip/axi_controller_blk_mem_gen_0_0/sim/axi_controller_blk_mem_gen_0_0.v" \
+"../../../bd/axi_controller/sim/axi_controller.v" \
+"../../../bd/axi_controller/ip/axi_controller_clk_wiz_0_0/axi_controller_clk_wiz_0_0_clk_wiz.v" \
+"../../../bd/axi_controller/ip/axi_controller_clk_wiz_0_0/axi_controller_clk_wiz_0_0.v" \
+
+verilog xil_defaultlib "glbl.v"
+
+nosort

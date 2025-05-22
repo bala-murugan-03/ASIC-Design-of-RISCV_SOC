@@ -1,0 +1,13 @@
+verilog xil_defaultlib --include "../../../../bkadder.gen/sources_1/bd/design_1/ipshared/1b7e/hdl/verilog" --include "../../../../bkadder.gen/sources_1/bd/design_1/ipshared/122e/hdl/verilog" --include "../../../../bkadder.gen/sources_1/bd/design_1/ipshared/46fd/hdl" --include "../../../../bkadder.gen/sources_1/bd/design_1/ipshared/b205/hdl/verilog" --include "../../../../bkadder.gen/sources_1/bd/design_1/ipshared/c968/hdl/verilog" --include "../../../../bkadder.gen/sources_1/bd/design_1/ipshared/d0f7" \
+"../../../bd/design_1/ip/design_1_blk_mem_gen_0_1/sim/design_1_blk_mem_gen_0_1.v" \
+"../../../bd/design_1/ip/design_1_bkadder_0_0/sim/design_1_bkadder_0_0.v" \
+"../../../bd/design_1/ip/design_1_controller_0_0/sim/design_1_controller_0_0.v" \
+"../../../bd/design_1/ip/design_1_vio_0_0/sim/design_1_vio_0_0.v" \
+"../../../bd/design_1/ip/design_1_ila_0_0/sim/design_1_ila_0_0.v" \
+"../../../bd/design_1/ip/design_1_clk_wiz_0/design_1_clk_wiz_0_clk_wiz.v" \
+"../../../bd/design_1/ip/design_1_clk_wiz_0/design_1_clk_wiz_0.v" \
+"../../../bd/design_1/sim/design_1.v" \
+
+verilog xil_defaultlib "glbl.v"
+
+nosort

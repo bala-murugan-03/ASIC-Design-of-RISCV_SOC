@@ -1,0 +1,34 @@
+{
+   "ActiveEmotionalView":"Default View",
+   "Default View_ScaleFactor":"1.35624",
+   "Default View_TopLeft":"-705,-10",
+   "ExpandedHierarchyInLayout":"",
+   "guistr":"# # String gsaved with Nlview 7.0r6  2020-01-29 bk=1.5227 VDI=41 GEI=36 GUI=JA:10.0 non-TLS
+#  -string -flagsOSRD
+preplace port clk_in1_0 -pg 1 -lvl 0 -x -600 -y 200 -defaultsOSRD
+preplace port reset_0 -pg 1 -lvl 0 -x -600 -y 170 -defaultsOSRD
+preplace portBus dataout_0 -pg 1 -lvl 4 -x 880 -y 180 -defaultsOSRD
+preplace inst axi_bram_ctrl_0 -pg 1 -lvl 2 -x 470 -y 250 -defaultsOSRD
+preplace inst blk_mem_gen_0 -pg 1 -lvl 3 -x 760 -y 290 -defaultsOSRD
+preplace inst controller_0 -pg 1 -lvl 1 -x 120 -y 130 -defaultsOSRD
+preplace netloc controller_0_araddr 1 1 1 300 80n
+preplace netloc controller_0_arprot 1 1 1 260 100n
+preplace netloc controller_0_arvalid 1 1 1 290 120n
+preplace netloc controller_0_rready 1 1 1 270 140n
+preplace netloc controller_0_rstn 1 1 1 250 160n
+preplace netloc clk_in1_0_1 1 0 2 -580 320 N
+preplace netloc reset_0_1 1 0 1 -570 110n
+preplace netloc axi_bram_ctrl_0_s_axi_rvalid 1 0 2 -560 300 N
+preplace netloc axi_bram_ctrl_0_s_axi_arready 1 0 2 -550 240 260
+preplace netloc axi_bram_ctrl_0_s_axi_rdata 1 0 2 -540 260 N
+preplace netloc controller_0_dataout 1 1 3 280J 100 NJ 100 860
+preplace netloc axi_bram_ctrl_0_BRAM_PORTA 1 2 1 640 180n
+levelinfo -pg 1 -600 120 470 760 880
+pagesize -pg 1 -db -bbox -sgen -710 -410 1030 1240
+"
+}
+{
+   "da_board_cnt":"1",
+   "da_bram_cntlr_cnt":"1",
+   "da_clkrst_cnt":"2"
+}

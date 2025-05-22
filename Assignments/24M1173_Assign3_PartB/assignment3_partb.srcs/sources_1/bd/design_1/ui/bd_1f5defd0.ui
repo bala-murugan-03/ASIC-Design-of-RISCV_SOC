@@ -1,0 +1,46 @@
+{
+   "ActiveEmotionalView":"Default View",
+   "Default View_ScaleFactor":"1.3578",
+   "Default View_TopLeft":"-440,-370",
+   "ExpandedHierarchyInLayout":"",
+   "guistr":"# # String gsaved with Nlview 7.0r6  2020-01-29 bk=1.5227 VDI=41 GEI=36 GUI=JA:10.0 non-TLS
+#  -string -flagsOSRD
+preplace port clk_0 -pg 1 -lvl 0 -x -340 -y -370 -defaultsOSRD
+preplace port reset_0 -pg 1 -lvl 0 -x -340 -y -110 -defaultsOSRD
+preplace portBus dataout_0 -pg 1 -lvl 5 -x 1180 -y 100 -defaultsOSRD
+preplace portBus a_0 -pg 1 -lvl 5 -x 1180 -y 30 -defaultsOSRD
+preplace portBus b_0 -pg 1 -lvl 5 -x 1180 -y 60 -defaultsOSRD
+preplace inst axi_bram_ctrl_0 -pg 1 -lvl 3 -x 790 -y 20 -defaultsOSRD
+preplace inst blk_mem_gen_0 -pg 1 -lvl 4 -x 1060 -y -70 -defaultsOSRD
+preplace inst dadda_mult_0 -pg 1 -lvl 2 -x 320 -y 250 -defaultsOSRD
+preplace inst controller_0 -pg 1 -lvl 1 -x 20 -y -110 -defaultsOSRD
+preplace netloc controller_0_awaddr 1 1 2 N -300 610
+preplace netloc controller_0_awprot 1 1 2 N -280 600
+preplace netloc controller_0_awvalid 1 1 2 N -260 590
+preplace netloc axi_bram_ctrl_0_s_axi_awready 1 1 2 N -240 580
+preplace netloc controller_0_wdata 1 1 2 N -220 560
+preplace netloc controller_0_wstrb 1 1 2 N -200 520
+preplace netloc controller_0_wvalid 1 1 2 N -180 490
+preplace netloc axi_bram_ctrl_0_s_axi_wready 1 1 2 N -160 500
+preplace netloc axi_bram_ctrl_0_s_axi_bvalid 1 1 2 N -140 550
+preplace netloc controller_0_bready 1 1 2 N -120 540
+preplace netloc controller_0_araddr 1 1 2 170 -150 N
+preplace netloc controller_0_arprot 1 1 2 180 -130 N
+preplace netloc axi_bram_ctrl_0_s_axi_arready 1 1 2 190 -110 N
+preplace netloc controller_0_arvalid 1 1 2 N -60 530
+preplace netloc axi_bram_ctrl_0_s_axi_rdata 1 1 2 N -20 510
+preplace netloc axi_bram_ctrl_0_s_axi_rvalid 1 1 2 N 0 480
+preplace netloc controller_0_rready 1 1 2 N 20 470
+preplace netloc controller_0_rstn 1 1 2 N 80 470
+preplace netloc clk_0_1 1 0 3 -320 -380 N -380 570
+preplace netloc controller_0_dataout 1 1 4 NJ 100 450 290 NJ 290 1160J
+preplace netloc reset_0_1 1 0 1 N -110
+preplace netloc dadda_mult_0_result 1 0 3 -310 -390 NJ -390 430
+preplace netloc controller_0_a 1 1 4 190J 170 460J 270 950J 30 NJ
+preplace netloc controller_0_b 1 1 4 170J 180 440J 280 960J 60 NJ
+preplace netloc axi_bram_ctrl_0_BRAM_PORTA 1 3 1 950 -70n
+levelinfo -pg 1 -340 20 320 790 1060 1180
+pagesize -pg 1 -db -bbox -sgen -440 -530 1330 410
+"
+}
+0

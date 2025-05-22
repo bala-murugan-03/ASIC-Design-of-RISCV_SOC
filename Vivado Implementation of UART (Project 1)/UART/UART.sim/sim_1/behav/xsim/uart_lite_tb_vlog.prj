@@ -1,0 +1,11 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"C:/Users/lakshmideepmaddineni/Downloads/baud_rate_gen.v" \
+"C:/Users/lakshmideepmaddineni/Downloads/uart_lite.v" \
+"C:/Users/lakshmideepmaddineni/Desktop/uart_lite_tb.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
